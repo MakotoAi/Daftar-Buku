@@ -35,3 +35,33 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini secara lokal:
    ```bash
    git clone https://github.com/MakotoAi/Daftar-Buku.git
    cd Daftar-Buku
+
+2. **Install Dependensi**
+    ```bash
+    composer install
+
+3. **Salin File .env**
+    ```bash
+    cp .env.example .env
+    php artisan key:generate
+
+4. **Konfigurasi Database di .env**
+    ```dotenv
+    DB_DATABASE=daftar_buku
+    DB_USERNAME=root
+    DB_PASSWORD=
+
+5. **Migrasi Database**
+    ```bash
+   php artisan migrate
+
+5. **Jalankan Aplikasi**
+    ```bash
+   php artisan serve
+
+5. **Akses di Browser**
+    ```browser
+   http://localhost:8000
+   
+👤 Kontributor
+MakotoAi — Developer & maintainer utama
