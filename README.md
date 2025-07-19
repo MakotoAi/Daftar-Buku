@@ -1,5 +1,7 @@
 # 📚 Daftar Buku
 
+![Laravel CI](https://github.com/MakotoAi/Daftar-Buku/actions/workflows/laravel.yml/badge.svg)
+
 Aplikasi web sederhana berbasis Laravel 12 untuk mengelola data buku.  
 Proyek ini dibuat sebagai latihan dan pembelajaran dalam membangun aplikasi CRUD menggunakan Laravel, Tailwind, dan MySQL.
 
