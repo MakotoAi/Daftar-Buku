@@ -1,27 +1,37 @@
 # 📚 Daftar Buku
 
-Aplikasi web sederhana untuk mengelola daftar buku menggunakan Laravel 12.  
-Fitur CRUD (Create, Read, Update, Delete) yang memudahkan pengguna untuk menambahkan, melihat, mengedit, dan menghapus data buku.
+Aplikasi web sederhana berbasis Laravel 12 untuk mengelola data buku.  
+Proyek ini dibuat sebagai latihan dan pembelajaran dalam membangun aplikasi CRUD menggunakan Laravel, Tailwind, dan MySQL.
 
-## ✨ Fitur
+---
 
-- Menambahkan data buku
-- Melihat daftar buku
-- Mengedit informasi buku
-- Menghapus buku dari daftar
-- Tabel dengan tampilan bersih dan responsif
+## ✨ Fitur Utama
 
-## 🛠️ Teknologi
+- 📥 Tambah data buku
+- 📄 Lihat daftar buku
+- ✏️ Edit data buku
+- ❌ Hapus data buku
+- 💬 Notifikasi interaktif dengan SweetAlert2
+- 📱 Desain responsif dengan Tailwind CSS
 
-- Laravel 12
-- PHP 8.x
-- MySQL
-- Tailwind CSS
-- SweetAlert2 (untuk notifikasi)
+---
 
-## 📦 Instalasi
+## 🛠️ Teknologi yang Digunakan
 
-1. Clone repository ini:
+- **Laravel 12**
+- **PHP 8.x**
+- **MySQL / MariaDB**
+- **Tailwind CSS**
+- **SweetAlert2**
+- **Composer**
+
+---
+
+## ⚙️ Langkah Instalasi
+
+Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini secara lokal:
+
+1. **Clone Repository**
    ```bash
    git clone https://github.com/MakotoAi/Daftar-Buku.git
    cd Daftar-Buku
