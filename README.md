@@ -1,6 +1,12 @@
 # 📚 Daftar Buku
 
 ![Laravel CI](https://github.com/MakotoAi/Daftar-Buku/actions/workflows/laravel.yml/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/MakotoAi/Daftar-Buku)
+![PHP](https://img.shields.io/badge/PHP-8.2-blue)
+![Laravel](https://img.shields.io/badge/Laravel-10-red)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/MakotoAi/Daftar-Buku)
+![GitHub stars](https://img.shields.io/github/stars/MakotoAi/Daftar-Buku?style=social)
 
 Aplikasi web sederhana berbasis Laravel 12 untuk mengelola data buku.  
 Proyek ini dibuat sebagai latihan dan pembelajaran dalam membangun aplikasi CRUD menggunakan Laravel, Tailwind, dan MySQL.
